@@ -11,13 +11,13 @@ This create the app. After that you need to write the project & package name (yo
 
 Then run the following commands:
 ```
-cd *folder_name*
+cd "folder_name"
 ```
 
 ```
 npm install
 ```
-OR
+**OR**
 ```
 npm i
 ```
