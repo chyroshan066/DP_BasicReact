@@ -39,6 +39,10 @@ It starts the development server. On following the link provided, you get to see
 
 ### Initial Configuration
 Here are some of the dependencies and devDependencies packages needed to be installed for the project development
+```
+npm i prop-types
+```
+This package allows you to set the required dataType for the props which is passed as argument. If the argument passed is not of the type specified then, it throws console error
 
 ## Developing
 In order to develop the project, follow these steps
