@@ -43,6 +43,10 @@ Here are some of the dependencies and devDependencies packages needed to be inst
 npm i prop-types
 ```
 This package allows you to set the required dataType for the props which is passed as argument. If the argument passed is not of the type specified then, it throws console error
+```
+npm i react-router-dom
+```
+This package allows to navigate from one route to the other wihtout page refreshing
 
 ## Developing
 In order to develop the project, follow these steps

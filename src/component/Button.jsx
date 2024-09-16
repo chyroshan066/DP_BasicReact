@@ -17,7 +17,7 @@ Button.defaultProps = {
 
 //Throws console error if the required dataType for the argument is not met
 Button.propTypes = {
-    buttonContent : PropTypes.string
+    buttonContent : PropTypes.string.isRequired
 }
 
 
