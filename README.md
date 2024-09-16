@@ -44,11 +44,11 @@ To deploy the project to a server, follow these steps
 ## Contributing
 
 ## Links
-+ [Project homepage] (https://github.com/Roshan9807950330/DP_BasicReact)
++ <a href = "https://github.com/Roshan9807950330/DP_BasicReact">Project homepage</a>
 + Other Projects:
-  - [Text Utility App] (https://github.com/Roshan9807950330/Text-Utility-App)
-  - [News App] (https://github.com/Roshan9807950330/News-App)
-+ [Profile] (https://github.com/Roshan9807950330)
+  - <a href = "https://github.com/Roshan9807950330/Text-Utility-App">Text Utility App</a>
+  - <a href = "https://github.com/Roshan9807950330/News-App">News App</a>
++ <a href = "https://github.com/Roshan9807950330">Profile</a>
   
 ## Licensing
 
