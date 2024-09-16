@@ -26,3 +26,29 @@ This code install the necessary packages required to build the project
 npm run dev
 ```
 It starts the development server. On following the link provided you get to see the sample app
+
+### Initial Configuration
+Here are some of the dependencies and devDependencies packages needed to be installed for the project development
+
+## Developing
+In order to develop the project, follow these steps
+
+### Building
+To build the project for deployment, follow these steps
+
+### Deploying/Publishing
+To deploy the project to a server, follow these steps
+
+## Features
+
+## Contributing
+
+## Links
++ [Project homepage] (https://github.com/Roshan9807950330/DP_BasicReact)
++ Other Projects:
+  - [Text Utility App] (https://github.com/Roshan9807950330/Text-Utility-App)
+  - [News App] (https://github.com/Roshan9807950330/News-App)
++ [Profile] (https://github.com/Roshan9807950330)
+  
+## Licensing
+
