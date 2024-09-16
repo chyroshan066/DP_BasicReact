@@ -11,6 +11,13 @@ This create the app. After that you need to write the project & package name (yo
 <br>Then choose the required framework using which you intend to build this app (In this case, I have choosen React).
 <br>Then choose the desired variant (Here you have 4 options: TypeScript, TypeScript with compiler, JavaScript & JavaScript with compiler). Here, I choosed JavaScript
 
+You can even create react app through create-react-app but the execution speed of the program created through create-react-app (CRA) is slow compared to that of vite. CRA is used to create those app which is bit complex and large.
+<br>To create React app through CRA, run the following command:
+
+```
+npx create-react-app "AppName"
+```
+
 Then run the following commands:
 ```
 cd "folder_name"
