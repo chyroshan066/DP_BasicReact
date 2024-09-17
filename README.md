@@ -4,7 +4,7 @@ Basic React app to understand and implement the concept of components, props, ro
 ## Installing / Getting started
 A quick introduction of the minimal setup you need to get the app running.
 
-```
+``` js
 npx create vite@latest
 ```
 This create the app. After that you need to write the project & package name (you can even skip this part).
@@ -14,24 +14,24 @@ This create the app. After that you need to write the project & package name (yo
 You can even create react app through create-react-app but the execution speed of the program created through create-react-app (CRA) is slow compared to that of vite. CRA is used to create those app which is bit complex and large.
 <br>To create React app through CRA, run the following command:
 
-```
+``` js
 npx create-react-app "AppName"
 ```
 
 Then run the following commands:
-```
+``` js
 cd "folder_name"
 ```
 
-```
+``` js
 npm install
 ```
 **OR**
-```
+``` js
 npm i
 ```
 This code install the necessary packages required to build the project
-```
+``` js
 npm run dev
 ```
 It starts the development server. On following the link provided, you get to see the sample app.
@@ -39,17 +39,17 @@ It starts the development server. On following the link provided, you get to see
 
 ### Initial Configuration
 Here are some of the dependencies and devDependencies packages needed to be installed for the project development
-```
+``` js
 npm i prop-types
 ```
 This package allows you to set the required dataType for the props which is passed as argument. If the argument passed is not of the type specified then, it throws console error
-```
+``` js
 npm i react-router-dom
 ```
 This package allows to navigate from one route to the other wihtout page refreshing
 
-## Developing
-In order to develop the project, follow these steps
+[comment]: # (## Developing
+In order to develop the project, follow these steps)
 
 ### Building
 To build the project for deployment, follow these steps
