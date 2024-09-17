@@ -51,15 +51,15 @@ This package allows to navigate from one route to the other wihtout page refresh
 [comment]: # (## Developing
 In order to develop the project, follow these steps)
 
-### Building
-To build the project for deployment, follow these steps
+[comment]: # (### Building
+To build the project for deployment, follow these steps)
 
-### Deploying/Publishing
-To deploy the project to a server, follow these steps
+[comment]: # (### Deploying/Publishing
+To deploy the project to a server, follow these steps)
 
-## Features
+[comment]: # (## Features)
 
-## Contributing
+[comment]: # (## Contributing)
 
 ## Links
 + <a href = "https://github.com/Roshan9807950330/DP_BasicReact">Project homepage</a>
@@ -68,5 +68,5 @@ To deploy the project to a server, follow these steps
   - <a href = "https://github.com/Roshan9807950330/News-App">News App</a>
 + <a href = "https://github.com/Roshan9807950330">Profile</a>
   
-## Licensing
+[comment]: # (## Licensing)
 
