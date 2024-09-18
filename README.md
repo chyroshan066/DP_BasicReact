@@ -5,7 +5,7 @@ Basic React app to understand and implement the concept of components, props, ro
 A quick introduction of the minimal setup you need to get the app running.
 
 ``` js
-npx create vite@latest
+npm create vite@latest
 ```
 This create the app. After that you need to write the project & package name (you can even skip this part).
 <br>Then choose the required framework using which you intend to build this app (In this case, I have choosen React).
