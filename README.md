@@ -62,11 +62,11 @@ To deploy the project to a server, follow these steps)
 [comment]: # (## Contributing)
 
 ## Links
-+ <a href = "https://github.com/Roshan9807950330/DP_BasicReact">Project homepage</a>
++ <a href = "https://github.com/chyroshan066/DP_BasicReact">Project homepage</a>
 + Other Projects:
-  - <a href = "https://github.com/Roshan9807950330/Text-Utility-App">Text Utility App</a>
-  - <a href = "https://github.com/Roshan9807950330/News-App">News App</a>
-+ <a href = "https://github.com/Roshan9807950330">Profile</a>
+  - <a href = "https://github.com/chyroshan066/Text-Formatter">Text Formatter</a>
+  - <a href = "https://github.com/chyroshan066/News-App">News App</a>
++ <a href = "https://github.com/chyroshan066">Profile</a>
   
 [comment]: # (## Licensing)
 
